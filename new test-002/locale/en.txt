@@ -1,0 +1,16 @@
+#: locale=en
+
+## Мултимедия
+
+### Заглавие
+panorama_760E3892_792F_4BB5_41C0_1EEA94BB6849.label = a1_View01
+panorama_7612B784_792D_C59D_41D6_0390F0D4E62D.label = a1_View02
+panorama_69556376_7923_DD7D_41D1_419FABDB9B67.label = a1_View03
+panorama_6963D20E_793C_DEAC_41BF_DD3836902855.label = a1_View04
+
+## Тур
+
+### Заглавие
+tour.name = Без заглавие 2
+
+### Описание
